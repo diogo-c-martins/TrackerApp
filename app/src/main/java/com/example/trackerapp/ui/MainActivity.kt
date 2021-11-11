@@ -7,7 +7,7 @@ import android.view.View
 import androidx.navigation.fragment.findNavController
 import androidx.navigation.ui.setupWithNavController
 import com.example.trackerapp.R
-import com.example.trackerapp.other.Constants.ACTION_SHOW_TRACKING_FRAGMENT
+import com.example.trackerapp.domain.util.Constants.ACTION_SHOW_TRACKING_FRAGMENT
 import dagger.hilt.android.AndroidEntryPoint
 //Android Extensions
 import kotlinx.android.synthetic.main.activity_main.*

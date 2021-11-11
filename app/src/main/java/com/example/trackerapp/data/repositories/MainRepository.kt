@@ -1,7 +1,7 @@
-package com.example.trackerapp.repositories
+package com.example.trackerapp.data.repositories
 
-import com.example.trackerapp.db.Run
-import com.example.trackerapp.db.RunDAO
+import com.example.trackerapp.data.data_source.Run
+import com.example.trackerapp.data.data_source.RunDAO
 import javax.inject.Inject
 
 class MainRepository @Inject constructor( //13

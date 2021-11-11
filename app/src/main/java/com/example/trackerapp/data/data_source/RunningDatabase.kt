@@ -1,4 +1,4 @@
-package com.example.trackerapp.db
+package com.example.trackerapp.data.data_source
 
 import androidx.room.Database
 import androidx.room.RoomDatabase
